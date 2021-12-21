@@ -23,3 +23,9 @@ In total 6 MATLAB scripts were written. Each reactor type had a design script wh
 1. NPD_Reactor and NPD Optimizer (No Pressure Drop)
 2. PD_Reactor and PD_Optimizer (Pressure Drop)
 3. HX_Reactor and HX_Optimizer (Pressure drop with interstage cooling)
+
+### Plot Examples
+![No Pressure Drop Length](/Plots/NPD_Length.png)
+![Pressure Drop Length](/Plots/PD_Length.png)
+![No Pressure Drop Inlet Temperature](/Plots/NPD_Temp.png)
+![Pressure Drop Temperature](/Plots/PD_Temp.png)
