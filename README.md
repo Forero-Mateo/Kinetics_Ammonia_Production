@@ -1,5 +1,5 @@
 # Undergrad Kinetics: Ammonia Production
-Project consisted of five person team. All MATLAB scripting was done by me.
+Project consisted of a five person team. All MATLAB scripting was done by me.
 
 ## Project Overview
 This was a project for the senior level course Kinetics and Reactor Design to model and design an autothermic reactor for ammonia production. Three different reactor models were created to demonstrate how each scenario could impact conversion and design parameters. Model design required building design equations, solving systems of ODEs, solving systems of linear equations (e.g energy balance, net rate equations, gas heat capacities), and parameter optimization. All model design was done using MATLAB
