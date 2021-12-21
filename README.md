@@ -16,3 +16,10 @@ Optimization was done using a simple version of grid search to select the best c
 1. Inlet temperature
 2. Reactor length
 3. Number of feed pipes
+
+### Code Summary
+In total 6 MATLAB scripts were written. Each reactor type had a design script which solved all the pertinent design equations and an optimization script that maximized the conversion and output plots. The optimization scripts called the design script and an array consisting of conversions was stored to determine the optimized parameters. 
+
+1. NPD_Reactor and NPD Optimizer (No Pressure Drop)
+2. PD_Reactor and PD_Optimizer (Pressure Drop)
+3. HX_Reactor and HX_Optimizer (Pressure drop with interstage cooling)
